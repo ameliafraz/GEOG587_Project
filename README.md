@@ -1,6 +1,4 @@
-# GEOG587_Project
-Solar Suitability Analysis Project for the City of Calgary Area. 
-## GENERAL INFORMATION
+x## GENERAL INFORMATION
 
 * **Title of Project:** Evaluating Solar Canopy Potential for Renewable Energy Transition in Calgary's Urban Environment
 
@@ -78,6 +76,6 @@ Digital elevation Model Lidar ASCII 2m - Open Calgary
 # SHARING / ACCESS INFORMATION
 
 - **License:** Creative Commons Attribution 4.0 (CC-BY 4.0)  
-- **<a href="https://example.com">Evaluating Solar Canopy Potential For Renewable energy Transition in Calgary's Urban Environment</a> © 2025 by <a href="https://example.com">Amelia Frazee</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> 
+- **<a href="https://example.com">Evaluating Solar Canopy Potential For Renewable energy Transition in Calgary's Urban Environment</a> © 2025 by <a href="https://example.com">Amelia Frazee</a> is licensed under <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"> **  
   
 *https://github.com/ameliafraz/GEOG587_Project
