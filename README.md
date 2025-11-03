@@ -1,4 +1,4 @@
-x## GENERAL INFORMATION
+## GENERAL INFORMATION
 
 * **Title of Project:** Evaluating Solar Canopy Potential for Renewable Energy Transition in Calgary's Urban Environment
 
@@ -39,7 +39,6 @@ All spatial data are stored in **GeoPackage (.gpkg)** format to maintain attribu
 Calgary_Latest_Orthophoto - ArcGIS Online
 Off-street_Parking_Zones - Open Calgary
 Digital elevation Model Lidar ASCII 2m - Open Calgary
-
 
 **Data Collection Notes:**  
 - Data were downloaded from Open Calgary and ArcGIS Online.  
